@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamcs5542
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning java,Spring
+- 👀 I’m interested in MERN development
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me shubham.sawant5542@gmail.com
 
 <!---
